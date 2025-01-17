@@ -1,7 +1,7 @@
 {
-  "name": "@whitespace/storybook-addon-code",
-  "version": "1.0.3",
-  "description": "A Storybook addon that extracts and displays syntax-highlighted source code",
+  "name": "@saidatom/storybook-addon-code",
+  "version": "1.0.0",
+  "description": "A Storybook addon that extracts and displays syntax-highlighted source code. Fork of the @whitespace-se/storybook-addon-code addon.",
   "keywords": [
     "addon",
     "storybook",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/whitespace-se/storybook-addon-code.git"
+    "url": "https://github.com/saidatom/storybook-addon-code.git"
   },
   "scripts": {
     "build": "npm run clean & babel -d ./dist ./src",
